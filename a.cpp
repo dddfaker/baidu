@@ -2,7 +2,8 @@
 // a.cpp
 #include <stdio.h>
 #include <stdlib.h>
- //okkfwe
+//das 
+//okkfwe
 int x[10];
 int y[10];
 int num_inputs;
